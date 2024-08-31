@@ -4,7 +4,7 @@ Welcome to the "Introduction to Analytics" branch of my Big Data Specialization 
 
 ## Projects Overview
 
-### 1. Time Series Data Analysis (2021)
+### 1. Time Series Data Analysis (2020)
 - **Objective:** Explore and visualize time series data from various measurement locations.
 - **Key Tasks:**
   - Data exploration and cleaning
@@ -12,7 +12,7 @@ Welcome to the "Introduction to Analytics" branch of my Big Data Specialization 
   - Categorization of data using Boolean indexing
   - Visualization of time series data
 
-### 2. Financial Time Series Forecasting (2021)
+### 2. Financial Time Series Forecasting (2020)
 - **Objective:** Develop a forecasting model for financial time series data.
 - **Key Tasks:**
   - Creation and processing of datetime columns
