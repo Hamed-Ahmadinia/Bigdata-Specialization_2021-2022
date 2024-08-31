@@ -1,4 +1,4 @@
-# Introduction to Analytics - Big Data Specialization
+# Introduction to Analytics (2020-2021)
 
 Welcome to the "Introduction to Analytics" branch of my Big Data Specialization portfolio. This section contains foundational projects focused on data exploration, time series analysis, and basic statistical operations.
 
