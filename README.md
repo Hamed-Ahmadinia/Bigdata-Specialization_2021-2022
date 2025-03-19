@@ -24,3 +24,5 @@ Welcome to the "Introduction to Analytics" branch of my Big Data Specialization 
 ## Contact
 
 For any queries or collaborations, please contact me at [hamed.ahmadinia@aol.com](mailto:hamed.ahmadinia@aol.com).
+
+© 2021-2022 Hamed Ahmadinia /  CC BY-NC 4.0
