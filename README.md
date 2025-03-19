@@ -24,3 +24,4 @@ To view the code and detailed explanations, please click on the relevant categor
 
 For any queries or collaborations, please contact me at [hamed.ahmadinia@aol.com](mailto:hamed.ahmadinia@aol.com).
 
+© 2021-2022 Hamed Ahmadinia /  CC BY-NC 4.0
