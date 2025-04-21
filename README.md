@@ -1,5 +1,7 @@
 # Big Data Specialization - Portfolio by Hamed Ahmadinia
 
+[![DOI](https://zenodo.org/badge/425120952.svg)](https://doi.org/10.5281/zenodo.15254849)
+
 Welcome to my portfolio, showcasing projects completed during my Big Data Specialization at Arcada University of Applied Sciences. This repository highlights key projects across various domains, including analytics, machine learning, visual analytics, and text mining.
 
 ## Project Categories
